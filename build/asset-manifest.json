@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/ReactApp/static/css/main.10107d82.chunk.css",
+    "main.js": "/ReactApp/static/js/main.355d4abb.chunk.js",
+    "main.js.map": "/ReactApp/static/js/main.355d4abb.chunk.js.map",
+    "runtime-main.js": "/ReactApp/static/js/runtime-main.905221a7.js",
+    "runtime-main.js.map": "/ReactApp/static/js/runtime-main.905221a7.js.map",
+    "static/js/2.cbe2bdc3.chunk.js": "/ReactApp/static/js/2.cbe2bdc3.chunk.js",
+    "static/js/2.cbe2bdc3.chunk.js.map": "/ReactApp/static/js/2.cbe2bdc3.chunk.js.map",
+    "index.html": "/ReactApp/index.html",
+    "precache-manifest.7be1dd65a226df5095a4eca54401d19e.js": "/ReactApp/precache-manifest.7be1dd65a226df5095a4eca54401d19e.js",
+    "service-worker.js": "/ReactApp/service-worker.js",
+    "static/css/main.10107d82.chunk.css.map": "/ReactApp/static/css/main.10107d82.chunk.css.map",
+    "static/js/2.cbe2bdc3.chunk.js.LICENSE.txt": "/ReactApp/static/js/2.cbe2bdc3.chunk.js.LICENSE.txt",
+    "static/media/bank.svg": "/ReactApp/static/media/bank.823c8a5a.svg",
+    "static/media/city.svg": "/ReactApp/static/media/city.1a5f2c52.svg",
+    "static/media/coins.svg": "/ReactApp/static/media/coins.41f8de84.svg",
+    "static/media/home.svg": "/ReactApp/static/media/home.e5b27194.svg",
+    "static/media/link.svg": "/ReactApp/static/media/link.f8b32221.svg",
+    "static/media/logo.svg": "/ReactApp/static/media/logo.25bf045c.svg",
+    "static/media/settings.svg": "/ReactApp/static/media/settings.9c4830bb.svg",
+    "static/media/tictac.svg": "/ReactApp/static/media/tictac.463a1fca.svg",
+    "static/media/cities.css": "/ReactApp/static/media/world.9eb4b5e9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.905221a7.js",
+    "static/js/2.cbe2bdc3.chunk.js",
+    "static/css/main.10107d82.chunk.css",
+    "static/js/main.355d4abb.chunk.js"
+  ]
+}
